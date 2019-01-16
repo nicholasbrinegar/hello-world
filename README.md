@@ -2,6 +2,6 @@
 ## a program that says hello to the world
 - hi
 - hi again
-+ sub thingy
+  + sub thingy
 
 Anthony told me to do this.
